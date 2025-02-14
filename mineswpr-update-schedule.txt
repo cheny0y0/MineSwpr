@@ -1,0 +1,42 @@
+v0.9.2
+Current version
+v0.9.5
+Add an on-default optional function for F operation on dug grids, if the amount of undug grids around it equals the number on it, auto-flag all the grid(s).
+v1.0a1
+Make question(?) grid optional.
+Update the debug mode.
+Remove the WORST 1ster egg.
+v1.0a2
+Add the last easter egg.
+Remove the 1st (x+)er egg.
+v1.0b1
+Optimize the checkerboard showing.
+Remove the 2nd (90deg)er egg.
+v1.0b2
+Add an off-default optional function for D operation on dug grids, if the amount of flagged grids around it equals the number on it, auto-dig the rest grid(s).
+Remove the 3rd YEASTer egg.
+v1.0pre1
+Bug fixes.
+Remove the 4th (->)er egg.
+v1.0pre2
+Bug fixes.
+Remove the 5th (TOU)er egg.
+v1.0rc1
+Bug fixes.
+Remove the penultimate easter egg.
+v1.0rc2
+Bug fixes.
+Drop support for Original Scratch 3.
+Remove the last easter egg.
+v1.0
+Bug fixes.
+v1.0.1
+Clean up the code.
+v1.0.4
+Update the UI.
+v1.0.7
+Update the UI.
+v1.0.10
+Update the UI.
+v1.1a1
+Add a new "Mouse Selector".
